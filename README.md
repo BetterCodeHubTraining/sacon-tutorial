@@ -1,4 +1,4 @@
-This is a fork of https://github.com/wumpz/jhotdraw/ which is a fork of JHotdraw from http://sourceforge.net/projects/jhotdraw.
+_This respository is a fork of https://github.com/wumpz/jhotdraw/ which in turn is a fork of JHotdraw from http://sourceforge.net/projects/jhotdraw._
 
 # SACON Tutorial guidelines
 
@@ -12,7 +12,14 @@ This is a fork of https://github.com/wumpz/jhotdraw/ which is a fork of JHotdraw
 2. Download Structure101 Studio from http://structure101.com/downloads/
    * If you're on Linux/macOS pick structure101-studiolinuxjava4.2.12657.tar.gz
 
-3. Launch Structure101:
+3. Unpack the downloaded archive and launch Structure101 from the command-line:
+   ```
+   $ tar xvfz structure101-studiolinuxjava4.2.12657.tar.gz
+   $ cd structure101-studio
+   $ cd java
+   $ ./structure101-studio
+   ```
+   After accepting the evaluation license you should see the following screen:
 ![Step 3](/images/structure101-step1.png)
 
 4. Choose new Java project and select the JHotdraw code JAR file that's located in the `build` directory:
