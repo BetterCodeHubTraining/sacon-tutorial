@@ -1,4 +1,4 @@
-_This respository is a fork of https://github.com/wumpz/jhotdraw/ which in turn is a fork of JHotdraw from http://sourceforge.net/projects/jhotdraw._
+_This repository is a fork of https://github.com/wumpz/jhotdraw/ which in turn is a fork of JHotdraw from http://sourceforge.net/projects/jhotdraw._
 
 # SACON Tutorial guidelines
 
