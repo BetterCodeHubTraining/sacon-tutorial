@@ -1,14 +1,5 @@
-# jhotdraw
+This is a fork of https://github.com/wumpz/jhotdraw/ which is a fork of jhotdraw from http://sourceforge.net/projects/jhotdraw.
 
-* maven build process
-* restructured project layout
-  * introduced submodules
+# Getting started 
 
-##License
-
-* LGPL V2.1
-* Creative Commons Attribution 2.5 License
-
-##History 
-
-This is a fork of jhotdraw from http://sourceforge.net/projects/jhotdraw.
+* Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
