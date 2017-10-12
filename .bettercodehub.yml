@@ -1,5 +1,10 @@
 component_depth: 7
 exclude:
+- /jhotdraw-api/.*
 - /jhotdraw-samples/.*
+- /jhotdraw-utils/.*
+- /jhotdraw-xml/.*
+- /jhotdraw7/.*
+- /nanoxml-patched/.*
 languages:
 - java
