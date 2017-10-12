@@ -1,4 +1,4 @@
-_This repository is a fork of https://github.com/wumpz/jhotdraw/ which in turn is a fork of JHotdraw from http://sourceforge.net/projects/jhotdraw._
+_This repository is a fork of https://github.com/wumpz/jhotdraw/ which in turn is a fork of JHotDraw from http://sourceforge.net/projects/jhotdraw._
 
 # SACON Tutorial guidelines
 
@@ -22,7 +22,7 @@ _This repository is a fork of https://github.com/wumpz/jhotdraw/ which in turn i
    After accepting the evaluation license you should see the following screen:
 ![Step 3](/images/structure101-step1.png)
 
-4. Choose new Java project and select the JHotdraw code JAR file that's located in the `build` directory:
+4. Choose new Java project and select the JHotDraw code JAR file that's located in the `build` directory:
 ![Step 4](/images/structure101-step2.png)
 
 5. Open the JAR file and click next. Select 'Logical' in the following dialog screen:
