@@ -1,0 +1,5 @@
+component_depth: 7
+exclude:
+- /jhotdraw-samples/.*
+languages:
+- java
