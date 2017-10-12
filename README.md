@@ -32,12 +32,22 @@ $ git clone https://github.com/BetterCodeHubTraining/sacon-tutorial.git
 
 # Practicum 2 - Architecture metrics analysis with Better Code Hub
 
-1. Go to GitHub.com (create an account if you don't have one already) and fork this repository:
+1. Go to GitHub.com (create an account if you don't have one already) and fork *this* (https://github.com/BetterCodeHubTraining/sacon-tutorial) repository:
 
+![Step 1](/images/bettercodehub-step1.png)
 
-1. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account.
+2. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account.
 
+![Step 2](/images/bettercodehub-step2.png)
 
+3. Find the repository called 'sacon-tutorial':
 
+![Step 3](/images/bettercodehub-step3.png)
 
-You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
+4. Start an analysis by clicking the ▶️ button.
+
+![Step 4](/images/bettercodehub-step4.png)
+
+5. After the analysis is finished you'll see the report page:
+
+![Step 4](/images/bettercodehub-step5.png)
