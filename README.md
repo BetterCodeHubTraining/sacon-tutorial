@@ -13,10 +13,22 @@ $ git clone https://github.com/BetterCodeHubTraining/sacon-tutorial.git
    * If you're on Linux/macOS pick structure101-studiolinuxjava4.2.12657.tar.gz
 
 2. Launch Structure101:
-![](/images/logo.png)
+![](/images/structure101-step1.png)
 
-3. choose new Java project
+3. choose new Java project and select the JHotdraw code JAR file from the `build` directory:
+![](/images/structure101-step2.png)
 
+4. Open the JAR file and click next. Leave the selected setting 'Logical' on the following screen:
+![](/images/structure101-step3.png)
+
+5. Click next. Leave the selected setting 'Package' on the following screen:
+![](/images/structure101-step4.png)
+
+6. Click next. Leave the selected setting 'Detail' on the following screen:
+![](/images/structure101-step5.png)
+
+7. In the following dialogs leave the defaults and click next and finish until you see this screen:
+![](/images/structure101-step6.png)
 
 # Getting started 
 
